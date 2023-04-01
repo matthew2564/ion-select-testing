@@ -1,0 +1,7 @@
+{
+  "name": "ion-select-testing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
